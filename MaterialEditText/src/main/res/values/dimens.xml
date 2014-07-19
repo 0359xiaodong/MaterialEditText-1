@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- size of label relative to the font size of EditText -->
+    <item name="label_scale" type="dimen" format="float">0.75</item>
+
+    <!-- number of animation frame -->
+    <integer name="label_animation_step">9</integer>
+</resources>

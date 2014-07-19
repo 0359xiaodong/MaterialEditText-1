@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- label color -->
+    <color name="label_color">#03a9f4</color>
+
+    <!-- EditText text field line color -->
+    <color name="edittext_line">#1a000000</color>
+
+    <!-- EditText focused text field line color -->
+    <color name="edittext_line_focused">@color/label_color</color>
+</resources>
